@@ -24,7 +24,7 @@
         "topthink/think-view": "^1.0",
         "topthink/think-captcha": "^3.0",
         "phpmailer/phpmailer": "^6.1",
-        "firebase/php-jwt": "^5.2",
+        "firebase/php-jwt": "^6.0",
         "lotofbadcode/phpspirit_databackup": "^1.1",
         "wamkj/thinkphp6.0-databackup": "^1.0",
         "taoser/think-addons": "^1.0",
