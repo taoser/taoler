@@ -34,7 +34,7 @@
         "workerman/workerman": "^4.0",
         "endroid/qr-code": "^4.4",
         "yansongda/pay": "~3.1.0",
-        "guzzlehttp/guzzle": "7.0",
+        "guzzlehttp/guzzle": "7.4.5",
         "php-di/php-di": "^6.4",
         "workerman/phpsocket.io": "^1.1",
         "jaeger/querylist": "^4.2",
